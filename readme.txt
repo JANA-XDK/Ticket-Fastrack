@@ -1,4 +1,0 @@
-Ticket FastTrack - Railway Reservation System
-Ticket FastTrack is a Java-based application designed to streamline the process of booking, managing, and canceling train tickets. This project combines a user-friendly graphical user interface (GUI) built with Java Swings and efficient file structures for persistent data storage and retrieval.
-
-The application enables users to interact seamlessly with features such as searching for trains, reserving seats, and managing ticket information. The integration of file handling techniques ensures that all data, including train schedules, station details, and booking records, is stored and managed effectively, even across application restarts.
